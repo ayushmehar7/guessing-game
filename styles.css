@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(41, 41, 41);
+    color: whitesmoke;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.heading{
+    margin-left: 30%;
+    margin-top: 7.5%;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#again-button{
+    background-color: whitesmoke;
+    color: rgb(41,41,41);
+    font-family: inherit;
+    padding: 1.25% 2%;
+    font-size: 20px;
+    left: 1%;
+    position: absolute;
+    top : 2.5%;   
+}
+
+.objective{
+    position: absolute;
+    top: 2.5%;
+    right: 1%;
+    font-size: 15px;
+}
+
+#input-box{
+    background-color: inherit;
+    font-family: inherit;
+    color: inherit;
+    border: 3px solid whitesmoke;
+    width: 12.5%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    font-size: 30px;
+    text-align: center;
+    position: absolute;
+    left: 20%;
+    top : 60%;
+}
+
+#check-button{
+    background-color: whitesmoke;
+    color: rgb(41,41,41);
+    font-family: inherit;
+    padding: 1.25% 2%;
+    font-size: 20px;
+    left: 20.5%;
+    position: absolute;
+    top : 75%;   
+}
+
+.score-section{
+    position: absolute;
+    right : 20%;
+    top: 60%;
+    font-size: 20px;
+}
+
+.line{
+    background-color: whitesmoke;
+    margin-top: 8%;
+    font-size: 7.5px;
+}
+
+#number{
+    font-size: 50px;
+    background-color: whitesmoke;
+    color: rgb(41, 41, 41);
+    padding : 1.5%;
+    position: absolute;
+    top: 33%;
+    left: 47.5%;
+}
